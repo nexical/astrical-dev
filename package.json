@@ -8,6 +8,7 @@
     },
     "workspaces": [
         "src/cli",
+        "src/cli-core",
         "src/core",
         "src/modules/*"
     ],
