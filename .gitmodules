@@ -8,3 +8,6 @@
 	path = src/cli-core
   url = git@github.com:nexical/cli-core.git
 
+[submodule "src/module-starter"]
+	path = src/module-starter
+	url = git@github.com:astrical-modules/starter.git
